@@ -3,7 +3,7 @@
 
 ## About The Project
 
-**Voice-Operated OTC Trading Bot** – A voice-controlled bot that simulates Over-the-Counter cryptocurrency trading. It assists users in placing digital asset trades with real time market data through natural conversation.
+**Voice-Operated OTC Trading Bot** – A voice-controlled bot that simulates Over-the-Counter cryptocurrency trading, assists users in digital asset trading with real time market data over different exchange Deribit, OKX, Binance, Bybit. (Bot doesnt place any actual trades)
 
 ## Folder Contents
 - **index.html** : The frontend HTML file for the user interface.
