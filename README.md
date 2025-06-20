@@ -1,7 +1,7 @@
 # OTC-trading-bot
-#### Description:
+#### video explanation: will be uploaded by 20 june 8pm(IST)
 
-## About The Project
+### About The Project
 
 **Voice-Operated OTC Trading Bot** – A voice-controlled bot that simulates Over-the-Counter cryptocurrency trading, assists users in digital asset trading with real time market data over different exchange Deribit, OKX, Binance, Bybit. (Bot doesnt place any actual trades)
 
