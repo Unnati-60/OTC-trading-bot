@@ -1,5 +1,6 @@
 # OTC-trading-bot
-#### video explanation: will be uploaded by 20 june 8pm(IST)
+#### video explanation: 
+will be uploaded by 20 june 8pm(IST)
 
 ### About The Project
 
